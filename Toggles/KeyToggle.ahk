@@ -1,5 +1,5 @@
 ;---------------------------------------
-; Holds key what it to set F9 start / F10 pause
+; Holds key what it to set F9 start | F10 pause/resume
 ; Date created: June, 8, 2021
 ; Date of last edit: June, 8, 2021
 ; Version: 1.0
